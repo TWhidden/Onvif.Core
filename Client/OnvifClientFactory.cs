@@ -1,4 +1,6 @@
-﻿using Onvif.Core.Client.Common;
+﻿#nullable enable
+
+using Onvif.Core.Client.Common;
 using Onvif.Core.Client.Device;
 using Onvif.Core.Client.Imaging;
 using Onvif.Core.Client.Media;

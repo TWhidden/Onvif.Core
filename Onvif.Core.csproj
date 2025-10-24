@@ -18,7 +18,6 @@
     <LangVersion>12.0</LangVersion>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
-    <Nullable>enable</Nullable>
   </PropertyGroup>
 
   <ItemGroup>
